@@ -1,0 +1,8 @@
+[general]
+name=PmagDir-Cones
+qgisMinimumVersion=3.0
+description=Draws directional cones from a vector layer with site location, declination, and cone angle.
+version=1.0
+author=Pablo Calvín
+email=calvinballester@gmail.com
+category=Analysis
