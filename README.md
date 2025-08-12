@@ -30,3 +30,6 @@ It draws a triangle (projected cone) from each point in the direction of the dec
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+<img width="708" height="487" alt="imagen" src="https://github.com/user-attachments/assets/a526f031-2a64-4df4-be39-f4fca5d64375" />
+
