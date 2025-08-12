@@ -31,5 +31,6 @@ It draws a triangle (projected cone) from each point in the direction of the dec
 
 This project is licensed under the MIT License.
 
-<img width="708" height="487" alt="imagen" src="https://github.com/user-attachments/assets/a526f031-2a64-4df4-be39-f4fca5d64375" />
+<img width="2307" height="1393" alt="imagen" src="https://github.com/user-attachments/assets/46db6193-501b-45dd-84d3-9881d8cca5ac" />
+
 
